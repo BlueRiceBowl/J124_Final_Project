@@ -30,7 +30,7 @@ In the project, I used [Berkeley PD Calls for Service](Berkeley_PD_-_Calls_for_S
 ## 1. [Top Number of Police Calls for Different Street](https://www.datawrapper.de/_/vnNU8/)
 <img src="./images/vis1.png">
 
-We have noticed that the number of crimes in these four streets (University Ave, Shattuck Ave, San Pablo Ave, and Telegraph Ave) is significantly higher than in other areas, and we suggest that you should be more vigilant and safe in these areas in general.
+We have noticed that the number of crimes in these four streets (University Ave, Shattuck Ave, San Pablo Ave, and Telegraph Ave) is significantly higher than in other areas, and we suggest that you should be more vigilant and careful in these areas in general.
 
 ## 2. [Count of Each Reported Crime From Police Calls](https://www.datawrapper.de/_/mzb2U/)
 <img src="./images/vis2.png">
@@ -45,11 +45,6 @@ Based on police data, we can see that the number of requests for help is higher 
 ## 4. [Crime Reported for Each Hour of the Day](https://www.datawrapper.de/_/okjBP/)
 <img src="./images/vis4.png">
 From the line graph above, the crime activities are peaked at 12pm and 4pm. We should be more be carefully during these time period when we are going out.
-
-# Summary
-
-From these visualization, the location of the crimes is concentrated chiefly around schools, and the types of crimes are extra property related. This means that students are a group whose safety is highly threatened. This circumstance is supported by the police data, which shows that most cases occur on weekdays. Therefore, we should strengthen campus security by providing more police patrols in the appropriate areas. And heighten students' awareness of safety and proper care of their belongings. These will help build a safer community.
-
 
 # Data Analysis
 
@@ -133,3 +128,9 @@ From these visualization, the location of the crimes is concentrated chiefly aro
 <img src="./images/steps/image029.png">
 
 2. Then, we want to round the hours up
+
+
+# Summary
+
+From the visualizations and the observations, the location of the crimes is concentrated chiefly around schools, and the types of crimes are extra property related. This means that students are a group whose safety is highly threatened. This circumstance is supported by the police data, which shows that most cases occur on weekdays. Therefore, we should strengthen campus security by providing more police patrols in the appropriate areas. And heighten students' awareness of safety and proper care of their belongings. These will help build a safer community.
+
