@@ -1,4 +1,4 @@
-# Description
+# Story Pitch Summary
 
 According to 2019 University of California - Berkeley Crime & Safety Report, UCB reported 1,057 crime incidents happened on campus and near campus. Every day we received at least one Berkeley Warn Me email from UCPD. It is not surprising that we could receive another Warn Me email while reading this report. The frequent occurring of these tragic events shall not be ignored since each event represents at least one person involved in the incident was harmed. Most importantly, this is a reminder and an alarm for us to avoid the danger.
 
@@ -40,7 +40,7 @@ The data shows that the number of theft and the number of burglary are significa
 ## 3. [Number of Police Calls for Each Day of the Week](https://www.datawrapper.de/_/4pxCU/)
 <img src="./images/vis3.png">
 
-Based on police data, we can see that the number of requests for help is higher on weekdays than on weekends, which aligns with the usual logic of foot traffic. It also reminds us to be safe during peak hours
+Based on police data, we can see that the number of requests for help is higher on weekdays than on weekends, which aligns with the usual logic of foot traffic. It also reminds us to be careful during peak hours
 
 ## 4. [Crime Reported for Each Hour of the Day](https://www.datawrapper.de/_/okjBP/)
 <img src="./images/vis4.png">
@@ -131,7 +131,7 @@ From the line graph above, the crime activities are peaked at 12pm and 4pm. We s
 2. Then, we want to round the hours up
 
 
-# Summary
+# Conclusion
 
 From the visualizations and the observations, the location of the crimes is concentrated chiefly around schools, and the types of crimes are extra property related. This means that students are a group whose safety is highly threatened. This circumstance is supported by the police data, which shows that most cases occur on weekdays. Therefore, we should strengthen campus security by providing more police patrols in the appropriate areas. And heighten students' awareness of safety and proper care of their belongings. These will help build a safer community.
 
