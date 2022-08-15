@@ -1,8 +1,8 @@
 # Story Pitch Summary
 
-According to 2019 University of California - Berkeley Crime & Safety Report, UCB reported 1,057 crime incidents happened on campus and near campus. Every day we received at least one Berkeley Warn Me email from UCPD. It is not surprising that we could receive another Warn Me email while reading this report. The frequent occurring of these tragic events shall not be ignored since each event represents at least one person involved in the incident was harmed. Most importantly, this is a reminder and an alarm for us to avoid the danger.
+According to 2019 University of California - Berkeley Crime & Safety Report, UCB reported 1,057 crime incidents happened on campus and near campus. Every day we received at least one Berkeley Warn Me email from UCPD on average. It is not surprising that we could receive another Warn Me email while reading this report. The frequent occurring of these tragic events shall not be ignored since each event represents at least one person involved in the incident was harmed. Most importantly, this is a reminder and an alarm for us to avoid the danger.
 
-Even though we received these notifications almost every day, how can we conclude the crime activities in Berkeley? How can we convert these numbers to something visualizable?
+Even though we received these notifications almost every day, how can we conclude the crime activities in Berkeley? How can we convert these numbers to something visualizable? Why is this report matter to us? It is not only the police's responsibility to build a safer community. We should also hold responsibility to raise awareness and learn how to protect ourseleves in order to reduce the crime rate.
 
 In this report, we will see at what period of the time would have the highest crime rate and at where crimes were frequently happening. With the result, we will understand where to position more patrols and when to avoid specific areas.
 
