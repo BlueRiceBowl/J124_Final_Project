@@ -81,6 +81,7 @@ From the line graph above, the crime activities are peaked at 12pm and 4pm. We s
 ## Question 2: What were the types of crime that were reported the most? List the top 5.
 
 <mark>Theft Misdemeanor with under $950, Auto Burglary, Stolen Vehicle, Disturbance, and Burglary Residential respectively.</mark>
+
 <img src="./images/steps/image004.png">
 
 ### Steps
