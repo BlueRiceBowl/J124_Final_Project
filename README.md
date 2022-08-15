@@ -20,7 +20,7 @@ In the project, I used [Berkeley PD Calls for Service](Berkeley_PD_-_Calls_for_S
 
 ## Additional Source
 1. [Crimemappping](https://www.crimemapping.com/map/location/Berkeley,%20CA,%20USA?id=dHA9MCNsb2M9MzAwMjgyOCNsbmc9MzQjcGw9NjI0MzczI2xicz0xNDo4Mzk2NTc0#)
-    * This is a real-time map that records all types of crimes happened recently.Using this, we can get the exact location/time of the crime occurence.
+    * This is a real-time map that records all types of crimes happened recently. Using this, we can get the exact location/time of the crime occurence.
 2.  [2021 Berkeley Crime Report](https://berkeleyca.gov/sites/default/files/2022-04/2022-03-08%20Item%2022%202021%20Year%20End%20Crime%20and%20Collision%20Data.pdf)
     * This is a detailed crime report showing how crime activities changes between 2021 and previous years.
 
