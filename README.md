@@ -107,7 +107,7 @@ From the line graph above, the crime activities are peaked at 12pm and 4pm. We s
 
 <img src="./images/steps/image025.png">
 
-## Question 4: What were the number of police calls for service for each of the day?
+## Question 4: What were the number of police calls for service for each hour of the day?
 
 <span> <img src="./images/steps/image009.png"> <img src="./images/steps/image011.png"> </span>
 
